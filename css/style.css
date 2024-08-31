@@ -401,3 +401,7 @@
 .font-blue{
     color: var(--primary);
 }
+.logo{
+    width: 3.5em;
+    border-radius: 50%;
+}
